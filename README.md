@@ -10,7 +10,7 @@ Query: SELECT *
  WHERE id in ( SELECT employee_id 
              FROM awards) ; 
 
-Output:<img src="Q1.png" width="500" height="500"> 
+Output:<img src="Q1.png" width="1083" height="219"> 
  
 
 ### Q2: Choose all employees who have never received an award (Nested Query)?
