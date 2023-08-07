@@ -49,4 +49,4 @@ where salary > (SELECT AVG(salary)
                 FROM employee 
                 where role= employee.role ) ;
 
-Output:<img src="Q5.png"width="1083" height="219">
+Output:<img src="Q5.png" width="1083" height="219">
